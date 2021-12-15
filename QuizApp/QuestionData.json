@@ -1,0 +1,36 @@
+ [
+  {
+  "question": "What is the name of the horse in JINGLE BELLS ?",
+  "answers": [
+              "Mr. Ed",
+              "Bob",
+              "Rudolph"
+              ],
+  "correctAnswerIndex": 1,
+  "feedback": "Bells on BOB-tails ring, Making spirits bright"
+  },
+  
+  {
+  "question": "We Three Kings of _____?____ are . . . ",
+  "answers": [
+              "Oregon",
+              "Orion",
+              "Orient"
+              ],
+  "correctAnswerIndex": 2,
+  "feedback": "We three kings of ORIENT are, tried to smoke a rubber cigar . . . "
+  
+  },
+  
+  {
+  "question": "What is the name of the Christmas angel?",
+  "answers": [
+              "Gabriel",
+              "Harold",
+              "Lucifer"
+              ],
+  "correctAnswerIndex": 1,
+  "feedback": "Hark the HAROLD Angels sing . . ."
+  }
+  
+]
